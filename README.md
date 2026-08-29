@@ -1,4 +1,4 @@
-# BOOKLY / Quebook 📚
+# Quebook 📚
 
 A modern, minimal, and editorial book recommendation web application built with clean modular architecture, pure vanilla JavaScript (ES Modules), and custom CSS.
 
@@ -7,7 +7,7 @@ A modern, minimal, and editorial book recommendation web application built with 
 ## 🏗️ Modular Architecture
 
 ```
-BOOKLY/
+QUEBOOK/
 │
 ├── index.html                   # Root entry point with instant redirect
 │
